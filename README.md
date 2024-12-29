@@ -1,1 +1,1 @@
-In this Application we will upload pictures of the diseased leaves that helps us to detect the diseases affected on the leaves.
+In this application, we will upload pictures of diseased leaves, and it will provide a description of the cause of the disease along with the prevention steps that can be taken to reduce its impact.
