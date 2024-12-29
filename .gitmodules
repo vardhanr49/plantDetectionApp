@@ -1,0 +1,3 @@
+[submodule "PlantdiseaseDetectionApp"]
+	path = PlantdiseaseDetectionApp
+	url = https://github.com/InsightEdge01/PlantdiseaseDetectionApp.git
